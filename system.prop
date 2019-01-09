@@ -16,4 +16,3 @@ ro.ril.ecclist=112,911,#911,*911
 af.resampler.quality=4
 logd.klogd=false
 ro.sdcardfs.enable=true
-ro.disp.resolution_switch=true
